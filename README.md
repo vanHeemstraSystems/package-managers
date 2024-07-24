@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+package-managers
+# Package Managers
 
-Based on "ABC" at https://www.abc.com/
+> Let’s break down the pros and cons of all package managers
+
+Based on "Package Managers: A face-off (npm vs. pnpm vs. Yarn vs. Bun)" at https://medium.com/@AALA-IT-Solutions/package-managers-a-face-off-npm-vs-pnpm-vs-yarn-vs-bun-d3375683fbcb
 
 ## 100 - Introduction
 
